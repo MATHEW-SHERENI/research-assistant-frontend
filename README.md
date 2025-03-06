@@ -12,3 +12,5 @@
 
 # happy simplified research
 
+
+![Screenshot 2025-03-06 at 14 22 13](https://github.com/user-attachments/assets/f439fd6b-0b4c-437e-8ff4-18a3fb79d8fa)
